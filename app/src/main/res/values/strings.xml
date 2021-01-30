@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eightHours</string>
+    <string name="in_how_many_hours_would_nyou_like_to_wake_up">In how many hours would\nyou like to wake up?</string>
+    <string name="good_night_ori">Good Night Ori!</string>
+    <string name="_8_5">8.5</string>
+    <string name="_7_5">7.5</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+</resources>
